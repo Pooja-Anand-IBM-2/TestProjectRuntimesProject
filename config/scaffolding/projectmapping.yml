@@ -1,7 +1,17 @@
 version: "1.0"
 projectName: TestProjectRuntimesProject
 runtimes:
+- runtimeAlias: Cloud Designtime
+  assets:
+  - name: fld_111748608_stage00.projects.fle1884ecf87614cbe8edb69341be5827c.integrations:wmflow
+    type: flow
+    stepId: /0
+    reference: fld_111748608_stage00.projects.fle1884ecf87614cbe8edb69341be5827c.WmPackageServiceProvider.project.testprojectruntimes.integrations:daftest
 - runtimeAlias: Cloud Runtime
   assets:
   - name: abhk_client
     type: clientapplication
+  - name: fld_111748608_stage00.projects.fle1884ecf87614cbe8edb69341be5827c.integrations:wmflow
+    type: flow
+    stepId: /1
+    reference: fld_111748608_stage00.projects.fle1884ecf87614cbe8edb69341be5827c.WmPackageServiceProvider.project.testprojectruntimes.integrations:daftest
