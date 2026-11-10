@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.testprojectruntimes.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">TestProjectRuntimesProject</value>
+  <value name="is_public">false</value>
+  <value name="assetId">TestProjectRuntimesProject.project.testprojectruntimes.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhp://stage00-test776060-um-0.int-test776060.svc.cluster.local:9000/</value>
+  <value name="clientId">EM8780be22679e4cf5a2499d0b61145e62</value>
+  <value name="securityProtocol"></value>
+  <value name="keystoreAlias"></value>
+  <value name="keystoreKeyAlias"></value>
+  <value name="truststoreAlias"></value>
+  <value name="additionalProperties"></value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Pooja.Anand2@ibm.com</value>
+    <value name="modifiedBy">Pooja.Anand2@ibm.com</value>
+    <value name="createdDate">2026-11-10T10:38:38.881526106Z</value>
+    <value name="lastModifiedDate">2026-11-10T10:38:38.881526106Z</value>
+  </record>
+</Values>

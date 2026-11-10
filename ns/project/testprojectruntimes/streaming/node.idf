@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">project.testprojectruntimes.streaming</value>
+  <value name="node_pkg">TestProjectRuntimesProject</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Pooja.Anand2@ibm.com</value>
+    <value name="modifiedBy">Pooja.Anand2@ibm.com</value>
+    <value name="createdDate">2026-11-10T10:38:38.723945676Z</value>
+    <value name="lastModifiedDate">2026-11-10T10:38:38.723945676Z</value>
+  </record>
+  <value name="is_public">false</value>
+</Values>
