@@ -1,0 +1,7 @@
+version: "1.0"
+projectName: TestProjectRuntimesProject
+runtimes:
+- runtimeAlias: Cloud Runtime
+  assets:
+  - name: abhk_client
+    type: clientapplication
