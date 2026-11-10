@@ -7,6 +7,19 @@ packages:
   gitUrl: https://github.com/Pooja-Anand-IBM-2
   gitUsername: Pooja-Anand-IBM-2
   gitBranch: main
+services:
+- serviceName: project.testprojectruntimes.integrations:daftest
+  packages:
+  - name: TestProjectRuntimesProject
+    version: "1.0"
+- serviceName: pub.date:getCurrentDate
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.1228
+- serviceName: project.testprojectruntimes.streaming.connections:EmbeddedMessaging
+  packages:
+  - name: TestProjectRuntimesProject
+    version: "1.0"
 configurationVariables:
   jdbcfunc.SAPTxStore.failFastMode: false
   jdbcfunc.SAPTxStore.connPoolAlias: SAP TxStore Pool
